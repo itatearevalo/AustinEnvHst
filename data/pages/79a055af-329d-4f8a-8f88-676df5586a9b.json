@@ -4,7 +4,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Image"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Info below"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "content warning, some of oral histories contain for language in italics"
         }
       ]
     }
@@ -17,6 +33,6 @@
   "slug": "homepage",
   "created_at": "2026-04-28T19:53:21.114Z",
   "created_by": "itatearevalo",
-  "updated_at": "2026-04-28T19:54:02.188Z",
+  "updated_at": "2026-04-28T19:56:25.382Z",
   "updated_by": "itatearevalo"
 }
