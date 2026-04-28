@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "e32385c5-d75c-4402-8ca0-6b5b1196347a": {
+      "label": "Interview with Janet Fish Weather",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia601405.us.archive.org/5/items/fish-weather-combined/Fish%20WEATHER%20Combined.mp3",
+      "duration": 5087
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with Janet Fish Weather",
+  "created_at": "2026-04-28T19:30:10.971Z",
+  "created_by": "itatearevalo",
+  "updated_at": "2026-04-28T19:30:10.971Z",
+  "updated_by": "itatearevalo"
+}

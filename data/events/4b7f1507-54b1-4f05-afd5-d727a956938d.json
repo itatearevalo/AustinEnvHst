@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "3e6a3d22-7e13-4991-9b26-91423a9d31e8": {
+      "label": "Interview with Rowena Stenis Smith",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia601605.us.archive.org/23/items/stenis-smith-oral-history/Stenis%20Smith%20Audio%20Combined.mp3",
+      "duration": 3749
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with Rowena Stenis Smith",
+  "created_at": "2026-04-28T19:30:10.971Z",
+  "created_by": "itatearevalo",
+  "updated_at": "2026-04-28T19:30:10.971Z",
+  "updated_by": "itatearevalo"
+}

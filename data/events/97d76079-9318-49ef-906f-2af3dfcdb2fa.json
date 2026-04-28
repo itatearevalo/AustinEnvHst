@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "0b048a98-6b43-45ea-972b-9ea95e44d79f": {
+      "label": "Interview with Ben May",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia600603.us.archive.org/32/items/may-ben-1967-02-15/may-ben-1967-02-15.mp3",
+      "duration": 2000
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with Ben May",
+  "created_at": "2026-04-28T19:30:10.971Z",
+  "created_by": "itatearevalo",
+  "updated_at": "2026-04-28T19:30:10.971Z",
+  "updated_by": "itatearevalo"
+}

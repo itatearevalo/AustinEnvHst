@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "4483e93b-752a-489e-be9f-7801187ccd38": {
+      "label": "Interview with Janet Fish Creek",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia600307.us.archive.org/11/items/fish-creek-combined/Fish%20CREEK%20Combined.mp3",
+      "duration": 3044
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with Janet Fish Creek",
+  "created_at": "2026-04-28T19:30:10.971Z",
+  "created_by": "itatearevalo",
+  "updated_at": "2026-04-28T19:30:10.971Z",
+  "updated_by": "itatearevalo"
+}
