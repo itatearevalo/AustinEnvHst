@@ -12,11 +12,11 @@
   "title": "Homepage",
   "autogenerate": {
     "enabled": false,
-    "type": "custom"
+    "type": "home"
   },
   "slug": "homepage",
   "created_at": "2026-04-28T19:53:21.114Z",
   "created_by": "itatearevalo",
-  "updated_at": "2026-04-28T19:53:21.114Z",
+  "updated_at": "2026-04-28T19:54:02.188Z",
   "updated_by": "itatearevalo"
 }
