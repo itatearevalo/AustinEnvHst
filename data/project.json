@@ -133,16 +133,12 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Env't Indicator"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Environmnetal Indicator"
         }
       ]
     },
     "created_at": "2026-04-21T22:46:05.180Z",
-    "updated_at": "2026-05-15T22:31:52.913Z",
+    "updated_at": "2026-05-15T22:31:55.905Z",
     "generate_pages_site": true
   },
   "annotations": {},
