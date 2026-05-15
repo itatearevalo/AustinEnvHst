@@ -133,10 +133,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Infrasructure"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Env't Indicator"
         },
         {
@@ -146,7 +142,7 @@
       ]
     },
     "created_at": "2026-04-21T22:46:05.180Z",
-    "updated_at": "2026-05-15T22:31:49.826Z",
+    "updated_at": "2026-05-15T22:31:52.913Z",
     "generate_pages_site": true
   },
   "annotations": {},
