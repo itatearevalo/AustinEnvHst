@@ -1169,12 +1169,12 @@
           "tag": "Personal"
         },
         {
-          "category": "Environment",
-          "tag": "Env't Health"
-        },
-        {
           "category": "Land(scape)",
           "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
         }
       ],
       "uuid": "898f8e74-49a9-4ee4-b2ae-4a7ab5dfa670"
