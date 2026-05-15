@@ -1450,12 +1450,12 @@
           "tag": "Personal"
         },
         {
-          "category": "Community",
-          "tag": "In Group v. Out Group"
-        },
-        {
           "category": "Land(scape)",
           "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "In Group v Out Group"
         }
       ],
       "uuid": "0a4aee7a-8ecc-4126-97c6-c78734593765"
