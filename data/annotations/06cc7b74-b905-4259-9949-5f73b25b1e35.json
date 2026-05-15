@@ -421,12 +421,12 @@
           "tag": "Personal"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Env't Health"
+          "category": "Environment",
+          "tag": "Environmental Health"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Infrastucture"
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
         }
       ],
       "uuid": "db8be5a2-d954-4092-bbf4-e108c1db9b1a"
