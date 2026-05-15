@@ -5044,16 +5044,16 @@
       ],
       "tags": [
         {
-          "category": "Uncategorized",
-          "tag": "Env't Indicator"
-        },
-        {
           "category": "Land(scape)",
           "tag": "City Geography"
         },
         {
           "category": "Memory",
           "tag": "Personal"
+        },
+        {
+          "category": "Science",
+          "tag": "Environmental Indicator"
         }
       ],
       "uuid": "79ab2a6c-c30e-4357-b7b3-6c8a291d2013"
