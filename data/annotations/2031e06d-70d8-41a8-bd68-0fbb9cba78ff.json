@@ -2186,12 +2186,12 @@
       ],
       "tags": [
         {
-          "category": "Environment",
-          "tag": "Env't Health"
-        },
-        {
           "category": "Land(scape)",
           "tag": "Infrastructure"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
         }
       ],
       "uuid": "b1ba9c0f-3814-411f-bfbf-de4e5b5f3ba0"
