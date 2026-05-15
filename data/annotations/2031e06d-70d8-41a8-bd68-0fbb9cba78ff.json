@@ -3011,12 +3011,12 @@
           "tag": "Collective"
         },
         {
-          "category": "Environment",
-          "tag": "Env't Health"
-        },
-        {
           "category": "Land(scape)",
           "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
         }
       ],
       "uuid": "f7c10524-a777-4322-9812-73df6a7399ff"
