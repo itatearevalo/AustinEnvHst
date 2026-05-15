@@ -844,12 +844,12 @@
           "tag": "City Geography"
         },
         {
-          "category": "Evolution",
-          "tag": "Past v. Present"
-        },
-        {
           "category": "Land(scape)",
           "tag": "Infrastructure"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
         }
       ],
       "uuid": "a79354ed-1792-43b8-82cc-433ca53693a5"
