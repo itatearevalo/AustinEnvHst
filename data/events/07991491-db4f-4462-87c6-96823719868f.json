@@ -12,6 +12,28 @@
   "label": "Interview with Robert F. Bacon",
   "created_at": "2026-04-28T19:30:10.971Z",
   "created_by": "itatearevalo",
-  "updated_at": "2026-04-28T19:30:10.971Z",
-  "updated_by": "itatearevalo"
+  "updated_at": "2026-05-15T19:50:29.843Z",
+  "updated_by": "itatearevalo",
+  "av_file_order": [
+    "22cf4953-c428-4eec-be08-ed62f0d7999e"
+  ],
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Content Warning",
+          "italic": true,
+          "bold": true
+        },
+        {
+          "italic": true,
+          "text": ": Some interviews contain disturbing or offensive terms and phrasing in reference to Black and Indigenous residents. We acknowledge the historic, systemic inequities represented by this material. Because we wish to be honest about when and who history harms, we have not edited the audio file, but we have altered the written transcriptions and use asterisks to signal offensive language."
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    }
+  ]
 }
