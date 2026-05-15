@@ -2637,12 +2637,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Past v. Present"
-        },
-        {
           "category": "Environment",
           "tag": "Natural Beauty"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
         }
       ],
       "uuid": "a2c260b1-6dda-49e6-9511-9a185e0c5dad"
