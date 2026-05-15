@@ -1664,10 +1664,6 @@
       "tags": [
         {
           "category": "Environment",
-          "tag": "Env't Health"
-        },
-        {
-          "category": "Environment",
           "tag": "Human Health"
         },
         {
@@ -1677,6 +1673,10 @@
         {
           "category": "Land(scape)",
           "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
         }
       ],
       "uuid": "de839473-41b8-45a4-beaf-9bea58501828"
