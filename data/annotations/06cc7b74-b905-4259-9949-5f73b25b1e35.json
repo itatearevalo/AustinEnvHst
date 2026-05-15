@@ -4858,12 +4858,12 @@
           "tag": "Personal"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Env't Health"
-        },
-        {
           "category": "Community",
           "tag": "Credibility"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
         }
       ],
       "uuid": "8b782a52-7607-4143-8b1a-186b9badbb7b"
