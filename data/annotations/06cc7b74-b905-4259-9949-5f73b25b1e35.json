@@ -5289,16 +5289,16 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Past v. Present"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "In Group v. Out Group"
-        },
-        {
           "category": "Environment",
           "tag": "Human Health"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        },
+        {
+          "category": "Community",
+          "tag": "In Group v Out Group"
         }
       ],
       "uuid": "444cba3b-6449-43ec-ad7a-1f2615af0808"
