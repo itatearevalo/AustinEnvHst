@@ -965,16 +965,16 @@
       ],
       "tags": [
         {
-          "category": "Evolution",
-          "tag": "Past v. Present"
-        },
-        {
           "category": "Memory",
           "tag": "Personal"
         },
         {
           "category": "Land(scape)",
           "tag": "City Geography"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
         }
       ],
       "uuid": "32a6d58a-a503-4ea3-856d-0c9ed5bf8544"
