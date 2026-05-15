@@ -329,12 +329,12 @@
       ],
       "tags": [
         {
-          "category": "Community",
-          "tag": "In Group v. Out Group"
-        },
-        {
           "category": "Memory",
           "tag": "Collective"
+        },
+        {
+          "category": "Community",
+          "tag": "In Group v Out Group"
         }
       ],
       "uuid": "4988d1ba-72ad-4246-9d1e-4926d7f93b27"
