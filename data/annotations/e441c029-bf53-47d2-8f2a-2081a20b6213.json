@@ -258,12 +258,12 @@
           "tag": "Infrastructure"
         },
         {
-          "category": "Evolution",
-          "tag": "Past v. Present"
-        },
-        {
           "category": "Land(scape)",
           "tag": "City Geography"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
         }
       ],
       "uuid": "72a90f3d-c818-4cd7-9772-2993afe64e02"
