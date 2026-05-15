@@ -3658,12 +3658,12 @@
       ],
       "tags": [
         {
-          "category": "Community",
-          "tag": "In Group v. Out Group"
-        },
-        {
           "category": "Land(scape)",
           "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "In Group v Out Group"
         }
       ],
       "uuid": "917ebeb9-818b-4d49-a52d-5c0bde000da6"
