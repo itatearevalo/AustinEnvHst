@@ -855,16 +855,16 @@
       ],
       "tags": [
         {
-          "category": "Uncategorized",
-          "tag": "Env't Indicator"
-        },
-        {
           "category": "Memory",
           "tag": "Personal"
         },
         {
           "category": "Land(scape)",
           "tag": "City Geography"
+        },
+        {
+          "category": "Science",
+          "tag": "Environmental Indicator"
         }
       ],
       "uuid": "1f5eaacd-afb7-4cff-a776-d9264cc6e8a8"
