@@ -1341,16 +1341,16 @@
       ],
       "tags": [
         {
-          "category": "Environment",
-          "tag": "Env't Health"
-        },
-        {
           "category": "Memory",
           "tag": "Personal"
         },
         {
           "category": "Land(scape)",
           "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
         }
       ],
       "uuid": "ff5c7a37-c348-4b2d-a540-5b0761b01f91"
