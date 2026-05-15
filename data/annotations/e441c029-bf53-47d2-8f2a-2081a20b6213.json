@@ -4128,16 +4128,16 @@
           "tag": "Personal"
         },
         {
-          "category": "Evolution",
-          "tag": "Past v. Present"
-        },
-        {
           "category": "Land(scape)",
           "tag": "Infrastructure"
         },
         {
           "category": "Community",
           "tag": "Privilege"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
         }
       ],
       "uuid": "acc773c5-1968-4fa1-8ad5-56140e879454"
