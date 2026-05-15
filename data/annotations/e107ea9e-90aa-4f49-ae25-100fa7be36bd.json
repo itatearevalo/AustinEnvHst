@@ -940,12 +940,12 @@
           "tag": "City Geography"
         },
         {
-          "category": "Evolution",
-          "tag": "Past v. Present"
-        },
-        {
           "category": "Land(scape)",
           "tag": "Infrastructure"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
         }
       ],
       "uuid": "8fb16373-c0e9-4238-899d-ba95c85faaab"
