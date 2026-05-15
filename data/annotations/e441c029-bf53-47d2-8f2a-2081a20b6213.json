@@ -2515,7 +2515,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
       "uuid": "96fc7599-e123-42b6-8748-b90a00540458"
     },
     {
