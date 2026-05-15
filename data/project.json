@@ -133,10 +133,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Infrastucture"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "City Geogrpahy"
         },
         {
@@ -154,7 +150,7 @@
       ]
     },
     "created_at": "2026-04-21T22:46:05.180Z",
-    "updated_at": "2026-05-15T22:31:43.431Z",
+    "updated_at": "2026-05-15T22:31:46.711Z",
     "generate_pages_site": true
   },
   "annotations": {},
