@@ -1,1 +1,5722 @@
-{"annotations":[],"set":"Default","event_id":"07991491-db4f-4462-87c6-96823719868f","source_id":"22cf4953-c428-4eec-be08-ed62f0d7999e"}
+{
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Depotvidge, February 7, 1964, at the home of Robert and Ella R., F., Bacon at 507, West 10th Street. \nRobert Bacon, have you lived in Austin all your life?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "d2b36a4b-24e4-4dbb-b211-23af6da4a377"
+    },
+    {
+      "start_time": 17,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes Mam"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "cd14620a-fcee-4313-b18c-e2949c12bd7a"
+    },
+    {
+      "start_time": 17,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how many years is that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a8c06686-d15f-47cf-8fac-8fa68bccde9f"
+    },
+    {
+      "start_time": 19,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It’ll be now the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "ae66f7ad-dbb3-414f-b814-d45113037282"
+    },
+    {
+      "start_time": 24,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1957, the 30th of December."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "8a6a0b4c-8352-4185-8363-a9b5d7504c09"
+    },
+    {
+      "start_time": 28,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Been about 90 years"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "ceacfe66-cfeb-4d6e-8527-32386ee5d7d5"
+    },
+    {
+      "start_time": 31,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I'd say that you probably know an awful lot about old Austin then, don't you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "e6ebfb03-f249-49e8-a486-3c015e309dea"
+    },
+    {
+      "start_time": 36,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I remember… when there wasn't anything else around here, not even a State Capitol."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "90368134-655a-4939-9206-876cadabadfc"
+    },
+    {
+      "start_time": 43,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, when did your family first come to this part of the country?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "1d9e027b-36f9-43a8-a368-cc1e1bd47fc2"
+    },
+    {
+      "start_time": 47,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I had one thing I couldn't"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "53ade29b-ded4-44ce-b92e-7e7b01ed2aeb"
+    },
+    {
+      "start_time": 49,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I heard her say she was here when she was three years old, his mother"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "74d41ebd-fa0f-4c1b-aeff-c240a6a5b997"
+    },
+    {
+      "start_time": 56,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr. Bacon's mother?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "0e96fcdf-95eb-42b9-9f79-98d65234ddde"
+    },
+    {
+      "start_time": 57,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bacon's mother"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "64e083b7-91e6-4cd7-9625-d4f9f43a980f"
+    },
+    {
+      "start_time": 58,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what was her name before she married?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "59554aa6-c389-411c-b549-2a396811e1be"
+    },
+    {
+      "start_time": 61,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mary Jane, Jane, Mary, Harolson"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "301933a2-05a6-4927-856a-8dc2abda29bd"
+    },
+    {
+      "start_time": 66,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Harold?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a75ecb47-a800-470c-a418-4e6e8da20888"
+    },
+    {
+      "start_time": 67,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "H, A R, a, l, s o n Haralson,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "0c5bcf12-47fa-4ac3-8fe6-df10919a62c7"
+    },
+    {
+      "start_time": 71,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, did your mother and father live in Austin too, or did they live in Travis County somewhere? They lived here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "ddba35d0-9879-43fc-ac62-fe676d53f127"
+    },
+    {
+      "start_time": 80,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Travis County"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b7735a07-60ef-4efc-b344-c2fb3a09d116"
+    },
+    {
+      "start_time": 82,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, where were you born? Here in Austin, Robert Bacon?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "028c0d56-bb8c-42d3-a8ba-66974a970034"
+    },
+    {
+      "start_time": 86,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born down in the Old Tenth Ward."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "5b4addb3-bb94-434f-afa0-1d954f5e95fa"
+    },
+    {
+      "start_time": 90,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is the house that you were born in still standing? Is the house that you were born in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "af7a7340-e9b4-44e8-b8cc-18ba90000c2a"
+    },
+    {
+      "start_time": 97,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well. . . I was born in the old place . . . and we moved from that town to . . . And then we moved from that town"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "26a19619-3995-4bd7-b8e6-8276d11a6875"
+    },
+    {
+      "start_time": 115,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b9488228-025d-4f67-a768-1c5aef20669e"
+    },
+    {
+      "start_time": 116,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Down in the old Tenth Ward"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b00c05b4-8318-4bba-9728-bc1e57114ce1"
+    },
+    {
+      "start_time": 120,
+      "end_time": 124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What what address would that be? Can you remember the address that you lived at?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "55d3f511-0a68-4a79-ab2d-a9bd31574a49"
+    },
+    {
+      "start_time": 124,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4cb9b18d-646b-4f88-ae66-30d1e7e3d6f3"
+    },
+    {
+      "start_time": 129,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was past the street. It was down near the river. Wasn't it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "e5a02c22-6496-4776-8bee-1be2a50110f8"
+    },
+    {
+      "start_time": 133,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, you know, it was on the south side of East First Street from halfway down the river. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "3c5001e4-c6e6-485b-a5a2-c11a56bab3ee"
+    },
+    {
+      "start_time": 145,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was on the south side of East First Street?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9389c46a-d43c-48e5-850c-663172f67829"
+    },
+    {
+      "start_time": 146,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was trying to get to locate this home place was on East First Street. Well, I say locate just on down the road, but we used to call the Village Clear."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "5ce8c7c2-629b-4d10-8106-f1bdd8cb1e7c"
+    },
+    {
+      "start_time": 170,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well and that of course, there are none of those houses left now, aren't?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "361735dd-aa5d-4f34-aa7f-0e669698bbe4"
+    },
+    {
+      "start_time": 173,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes they are. [inaudible dialogue]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "90580225-f85d-4742-87f8-bbe712f33f77"
+    },
+    {
+      "start_time": 180,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, do you know what's happened to them? Do you know who's living in them now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "777dd3c3-47bf-4f8e-8c75-6726e956a584"
+    },
+    {
+      "start_time": 183,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No… it was years ago"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "7703f51b-51f0-4e81-af5c-70d400808ca7"
+    },
+    {
+      "start_time": 196,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was it really? I mean, it was clear all around there weren't many houses around it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "65802192-3649-4e57-845f-8c0f136b29c6"
+    },
+    {
+      "start_time": 200,
+      "end_time": 203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No not many houses around"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "c69a2e33-0c7c-43de-b3aa-658126789555"
+    },
+    {
+      "start_time": 203,
+      "end_time": 205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I'll be darned"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4df72466-1c12-4683-9ae5-9efed2ce9ff8"
+    },
+    {
+      "start_time": 205,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was 90 years ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "1f0482f4-4096-4cb4-8761-373383f9df0d"
+    },
+    {
+      "start_time": 207,
+      "end_time": 223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that's a long time ago. And of course, this is exactly what we want to know. We want to know about how Austin looked in those days when you were a little boy, you weren't very far from the river, then. Did you go and play near the river a lot, or was it dangerous?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9d681af7-3fc1-4323-95b5-ad2dee99c253"
+    },
+    {
+      "start_time": 223,
+      "end_time": 251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I don't know if it was. It was awfully cooler back then…when we went over to the Thompson house right by the State Capitol, near where my father died. During when they were building and had to run over there and carry a bucket of water."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env't Indicator"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "1f5eaacd-afb7-4cff-a776-d9264cc6e8a8"
+    },
+    {
+      "start_time": 253,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I bet that was interesting to watch: building the new capital."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "0084ef76-c008-4fe2-9f18-cd9a6f7652d1"
+    },
+    {
+      "start_time": 260,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We remember when the old capital burned. I remember, yes, I remember that as well as if it was just yesterday."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "b2bdea99-759c-4014-84ba-f41114bd3534"
+    },
+    {
+      "start_time": 268,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well tell us about that was that, was that burn at night, or when"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "5b616f10-66e1-466a-b002-ab254756e920"
+    },
+    {
+      "start_time": 273,
+      "end_time": 331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was in the morning, early, my mother had our younger boy, and I guess I must have been about, well, let’s see, seven…, Randolph was just a baby, and my brother was about three or four, maybe, and I was two years, nearly three years older than he. I was between six and seven, I guess and it was on a bitter morning, kind of sleepy like. And Mama heard the fire bells, of course, and she ran, she said, “Ella, watch the children.” My sister was older than I of six years, and she'd already gone to school, and I stood on the, I was living at that time on 14th, we were just, well, two blocks below. I don't remember the number on 14th, and I stood out on the front gallery, it was a two story house, and she ran with the next door neighbor up to the watch the fire."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "76f3ba03-e5aa-4d87-93fd-8848fccf01c7"
+    },
+    {
+      "start_time": 331,
+      "end_time": 332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh my goodness"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "628746c0-8d4b-44e2-aee4-41d4ad51f382"
+    },
+    {
+      "start_time": 333,
+      "end_time": 335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I could see the smoke and even the blaze."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "e4902210-b6d2-4149-ab89-2244b915b859"
+    },
+    {
+      "start_time": 336,
+      "end_time": 338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, Miss bacon. What caused that fire?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4adac8bb-322a-458e-ac13-792b8d0f288a"
+    },
+    {
+      "start_time": 338,
+      "end_time": 362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever hear them say? I never did know what caused it. But I can remember that the Capitol grounds, how we used to play in the grounds, they had terraces, you might say, there was a big high place, and then maybe there was a wall of boards, it seemed to me like, and there'd be steps that would come down to another park. I can remember when we were little things playing in the Capitol yard."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "50a568e5-4c3a-4f9c-9e8e-c4dc60473013"
+    },
+    {
+      "start_time": 362,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well used to be in the main road… went over the road and wondering if we could come back in went up right between the land office and the state capitol over there on the side of, I think it was a wooden fence way going all the way around. And if people all go and notice, but always shake the right hand side and that on Congress Avenue, and we lived just one block from there at the time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "c4829421-ab30-4fdc-9013-14d05f7ad371"
+    },
+    {
+      "start_time": 409,
+      "end_time": 421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the old Capitol was still standing, can you remember? Of course, I know you both were children, but can you remember what it looked like, what it was made? Of course, we have pictures of it but we'd like to hear it"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9963544b-5f5d-4863-856d-4858322d41cb"
+    },
+    {
+      "start_time": 422,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a wood building, yeah, I don't even remember how it built"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "2562e2ef-027d-4336-861f-71eaf1e811c2"
+    },
+    {
+      "start_time": 426,
+      "end_time": 439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I remember... I remember this was more like a big square building. I think it was two stories."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "540c5ce4-8925-4635-870e-96c8b3522730"
+    },
+    {
+      "start_time": 441,
+      "end_time": 443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not very fancy?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "f9a82ce9-7ae0-458e-b021-aa28389c0990"
+    },
+    {
+      "start_time": 444,
+      "end_time": 465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No very plain. It was mostly wood because it was burned to the ground. Then it was about two years after that, … I was about eight years old for the new Capitol."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "d98788a9-b903-4a72-8b9c-8b10ab1c38df"
+    },
+    {
+      "start_time": 467,
+      "end_time": 472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, they went into the temporary capital before they built the new capital."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "c0b2edd2-d4d2-4bb2-8de3-6af8bd63c4ce"
+    },
+    {
+      "start_time": 472,
+      "end_time": 472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "5c9bd602-0076-443e-bc15-ef1b3cb62393"
+    },
+    {
+      "start_time": 473,
+      "end_time": 482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was the temporary capital that was on the corner of the avenue and 11th that burned too after that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "e35ad8f7-5206-4f94-91a1-8fc216fca1bc"
+    },
+    {
+      "start_time": 483,
+      "end_time": 485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then they put up a new Capitol."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "c2af9e77-d865-4813-aae5-db9d4a79fb28"
+    },
+    {
+      "start_time": 485,
+      "end_time": 502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But while they were building this new capital, while this temporary capital was used, and whether that, I guess that was a building that was there because the school, or some of the school children went in the basement of that and some of the places at that time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "616b0140-6579-4c9e-bc30-f7042c13ecb0"
+    },
+    {
+      "start_time": 502,
+      "end_time": 512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was sittin’ at the corner of Congress Avenue and eleventh street…where you got a parking lot for the temporary capital"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "356c9bb8-7df5-4cf1-a15b-7d59437ebbd3"
+    },
+    {
+      "start_time": 512,
+      "end_time": 516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That’s where the temporary capital was, it is a parking lot now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "5222c662-8faa-4df8-b92c-b838461c561a"
+    },
+    {
+      "start_time": 515,
+      "end_time": 517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thats right, on the other side of the street"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "7502b360-b091-4a22-a9e9-9870443f3660"
+    },
+    {
+      "start_time": 520,
+      "end_time": 543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And they built a railroad there; It was Narrow Key railroad, from Washington here on up to Burnett to Granite mountain and the granite cut they loaded on the train and brought, brought around there in switch here in Austin on to the narrow key where they kept the granite."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "18b58497-b25b-4a79-a949-f9d6fe09da4e"
+    },
+    {
+      "start_time": 543,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very clever idea."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9bd7e8c3-50a7-4818-91c4-ca3e013c0867"
+    },
+    {
+      "start_time": 544,
+      "end_time": 546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because I went to school."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "93029147-1774-47b8-a6de-e61f5cf7523f"
+    },
+    {
+      "start_time": 546,
+      "end_time": 547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can remember, that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "2e925dd7-ac9f-4bcb-9d7e-6aef029ea4c0"
+    },
+    {
+      "start_time": 547,
+      "end_time": 590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I went to school and they had a big construction work on… East avenue. And we went over there and we boys would go over there, during recess, with recess, and get a whole lot of rocks and pile up on, on the construction work and wait for the [workers] and there was some sort of track that came down, and the n***er just went on for the n***er school above that would come down there, we had regular kick backs with n***er all the time, and the n***er couldn't throw at us, so it stayed down there. We all had a great time. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "In Group v. Out Group"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "0a4aee7a-8ecc-4126-97c6-c78734593765"
+    },
+    {
+      "start_time": 592,
+      "end_time": 599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, do you remember when the new capital was inaugurated in, what was it about 1885, wasn't it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "50498442-1e29-4be0-a6d7-13e2f4be6a78"
+    },
+    {
+      "start_time": 599,
+      "end_time": 618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "See, I was 15 years old when I went away for work and when the inauguration for the capital, we all sit there on some street.. *inaudible*"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "bcc1e06f-1a9a-46ee-8a2c-5822941af390"
+    },
+    {
+      "start_time": 626,
+      "end_time": 662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it was inaugurated in 1884. I think it seems to me like it was 1884. I have a badge that we children, I went to school over here at the West Austin school, started at what they call the West Austin School when I was 10, I was…and I went to the west Austin school, and I have a Little Red Badge somewhere in my scrapbook or something…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "ef1faa92-2a8d-47c4-a41d-b784aca07045"
+    },
+    {
+      "start_time": 670,
+      "end_time": 697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Street right back here, they formed us all in lines, you know, until a certain time, and then we marched. And I can remember standing right back here on Ninth Street until we the *feed cuts* that and I do have that badge. It's just a little red cotton badge with Austin. I think just “Austin” printed back then."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "f2a74e6b-8011-4e1d-acd6-ae3c8824fb79"
+    },
+    {
+      "start_time": 700,
+      "end_time": 708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then when they, the capitol was finished, I was working for Bill Bert, and I went working when I was 15 years old. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "a4b3e16f-f353-4731-ab4e-e4705f8c317d"
+    },
+    {
+      "start_time": 708,
+      "end_time": 710,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What did you do for him?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "923dd984-00c0-451f-8c02-b58769caf677"
+    },
+    {
+      "start_time": 711,
+      "end_time": 736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I went with him when he was up in Atlanta, and in the plumbing in the cash business and steam business. He was an all around fella, he is. I’ve been at that… this coming June, it'll be around seventy years I've been working with plumbing and steaming."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "05324dee-d1b2-4e7a-965e-f8081841cd23"
+    },
+    {
+      "start_time": 740,
+      "end_time": 805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I'm not mistaken, I gave a lot of things to the library over here that were among my father's things. And in that batch of things, I think, I have already given that to them, was when they begun to build the Capitol, was the invitations that were sent to all the different, then we had different organizations and rather military companies like the Houston Light dogs and all of those things, you know. And my daddy was always Secretary of everything, and he had all of these letters. He had a personal letter from Miss Becca Fisher, who everybody knew in Austin, of course, she was a big, big Daughters of the Republic, and all these invitations and things are in that book. It's a stiff back book about like that, and they are more than likely the young lady who come and got the things, had a case fixed with a lot of things that I gave her of my daddy's in the library."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "60e46517-b54e-495e-8f9c-1023cbc66602"
+    },
+    {
+      "start_time": 805,
+      "end_time": 809,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's one of the reasons that we so much wanted to talk to both of you, because"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "463d5002-3ff7-4bc3-86fa-47e248e8e7d9"
+    },
+    {
+      "start_time": 810,
+      "end_time": 918,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then my father called the first rule in this Capitol, the first legislature. He was always secretary, or he was, I think, chief clerk of the legislature at that time, and he was always reading through the chief clerk of some office, and I have his picture right up there. I had that picture made years ago to give to the chief clerk years ago, for years and years after. Oh, even gone for years one Armistice Day by the UDC [United States Department of Commerce] one, and we were in the Armistice Parade, and it was an ugly day, and the Legion was having problems, and they decided we'd have it in the House of Representatives at some place when it got to raining. So Ella JD Harvey, who was the Registrar and I was custodian for the division, went up to the Capitol together, and in our looking around as we walked into the House of Representatives, the hostess met us, and I just without thinking, I said, \"Well, just think my daddy called the first rule in this capital.\" The lady looked at me, she said, \"Could you be an heir of Will Lambert?\" And I said, \"Yes, I'm his daughter.\" And she said, \"Well, do you know the Chief Clerk of the legislature has been trying to get in touch with an heir of, Will Lambert. He's trying to get the pictures of the different clerks.\" And I, straightway, came home and had that made, and that's been 25 or 30 years ago and never have taken it up to them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "c3f9ec5f-a39f-4299-a956-84ec8456a445"
+    },
+    {
+      "start_time": 918,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh my goodness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "0a646742-c54f-4361-aaa3-ed0dc5a78123"
+    },
+    {
+      "start_time": 920,
+      "end_time": 922,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just love that picture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "036a3633-1fd5-480c-9d9b-9c441e27c684"
+    },
+    {
+      "start_time": 922,
+      "end_time": 924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think it's a very happy one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "504a0625-4fca-4b25-96bf-6637ffb07f74"
+    },
+    {
+      "start_time": 924,
+      "end_time": 984,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And he has on in that picture a little green, he was an Irishman. He always observed, this, what is it, the 17th of St Patrick's Day, St Patrick's Day. He always observed that. And he has a little green tie that I made and embroidered when I was a little thing on that picture. But anyway, the reason I didn't take it right away was my son in law knew this chief clerk in particular personally, and I waited thinking when he came to see us sometime we'd go and it just, you know how time passes, and finally he was just snapped out like that with a heart spell, and I think maybe that chief clerk has died. It was a gentleman that lived in Russell, I think. Anyway, I said, Really, when it comes to the capital and things like that. I can remember it so well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a4844f9a-4dd1-4bc2-bfd4-bf7228c6ed6d"
+    },
+    {
+      "start_time": 984,
+      "end_time": 995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm sure you can. Well, Robert Bacon, can you remember when the dam broke? Can you remember when the dam broke out here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4311dbc1-29b3-4eee-ae20-6e6a1073e651"
+    },
+    {
+      "start_time": 995,
+      "end_time": 997,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can tell you a whole lot about this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "7e268a0b-23ff-41e3-baea-a28985740b9b"
+    },
+    {
+      "start_time": 997,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I hope you will."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "f151784b-482f-483a-996b-6b016d3b8e08"
+    },
+    {
+      "start_time": 998,
+      "end_time": 1004,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I went it down there and there was two boys were gounded down in the power lines."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "c9f9437c-ba5a-4f45-80ab-628b1d9e2c90"
+    },
+    {
+      "start_time": 1004,
+      "end_time": 1007,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, they were the ones who couldn't get out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "c48d1fab-b767-44c6-bbcf-51685a2f27bd"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1039,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They couldn't get out. They were down there at that time power down there was an engineer, and we're looking and trying to help because you see after they after they finish the dam, they built a boat big and tall. And it depends… you might say it was push started with Sunday crowd."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "f7d6647c-3bb2-4389-a4f6-e51064d85dfe"
+    },
+    {
+      "start_time": 1040,
+      "end_time": 1042,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, well how big a boat was that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "23686813-d4f2-497a-a96b-118e5adfe6b3"
+    },
+    {
+      "start_time": 1043,
+      "end_time": 1095,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well… 50 couples could dance on the upper deck all the time. Now they were sheltered engines. It had two engines you see. Each engine was 100, I think 250, horsepower, so give it 500 horsepower and run it and the engineers who we had had two engineers, of course, each working for the captain up above. And Charlie Anderson, and who was a first engineer, not a second engineer. And I'd run that boat all the time. We'd go out there and I'd get the boat started sometime, slip on a shirt and cut and go upstairs, maybe,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "7f95c00f-a0bb-4c1c-8a87-a4bc1438f241"
+    },
+    {
+      "start_time": 1096,
+      "end_time": 1104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They had regular shirts, they'd go up the leg. They'd have everyone once a week, anyway, for entertainment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a1e5f4fb-9fb4-4686-918a-d73350dfd08e"
+    },
+    {
+      "start_time": 1103,
+      "end_time": 1106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well Robert Bacon, what finally happened to the big dam?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "44f2315d-c8a1-4d38-b1c5-cc2f9caf3aef"
+    },
+    {
+      "start_time": 1106,
+      "end_time": 1132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the dam had kept a running now and sometimes there were sailboat races that I could get out anytime around that, there was never anybody else running it with the exception of John, and it went to pieces when we had a big flood here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Env't Health"
+        }
+      ],
+      "uuid": "81d5789c-b827-4f67-bf6b-d2c4dedd5da6"
+    },
+    {
+      "start_time": 1132,
+      "end_time": 1136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About what year was that today?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "8a827844-d1bd-4b80-b8cf-2ab270293e7c"
+    },
+    {
+      "start_time": 1139,
+      "end_time": 1162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The dam must have been in 1900. We fished on Saturday before it was washed away. On Sunday, right there, on this right above where the powerhouse was, where you walked here and then went across the dam. When we fished right there on Saturday before the dam washed away."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Environment",
+          "tag": "Env't Health"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "171781ab-11d4-4e0f-b151-d8000133af2f"
+    },
+    {
+      "start_time": 1162,
+      "end_time": 1165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, and there weren't any indications that anything was the matter?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "78d845a8-bf46-4916-81de-a8a5a67f32c6"
+    },
+    {
+      "start_time": 1165,
+      "end_time": 1249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh no. Well once they noticed the rush, they phoned in, Charlie coming in, we went out and cut up the steam and took the boat away from that walk. He carried on down there and ducked it right at the corner of the creek crossing, landed up on that thing and left today, and when they rise right down, it was left just lift up on dry land and then ducked, Water Captain, Dr. Marsh was the head man for the crowd, he had the say of everything. So, Captain bought that he was the captain of the boat when he was in Mississippi and brought him in after that. So it got up there and stayed about a year when the water would get out of control. So they decided to sell it. So of course, he sold engine right over on the corner by the water."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        },
+        {
+          "category": "Environment",
+          "tag": "Env't Health"
+        }
+      ],
+      "uuid": "6a1a51c3-6b11-427f-bcb0-d7efeb58b928"
+    },
+    {
+      "start_time": 1249,
+      "end_time": 1252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How many people were killed in that [accident]?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        }
+      ],
+      "uuid": "c47c9d81-749b-4265-bb15-b88a797efa10"
+    },
+    {
+      "start_time": 1254,
+      "end_time": 1288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was it about eight people altogether, in the flood that day that were drowned? Of course, everything stopped. We had no lights or street cars or anything, you know, then powerhouse, of course, generated everything. But on Sunday evening, after it had washed away, I guess it was Saturday that it washed away because on sunday evening, everybody was crazy to see the destruction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Environment",
+          "tag": "Env't Health"
+        }
+      ],
+      "uuid": "39a681c5-0e64-4ab1-bcd4-5734d96b91d0"
+    },
+    {
+      "start_time": 1288,
+      "end_time": 1309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We got the boat carried out to come on back. The lake was rising in, pretty heavy in the next next day, the dam went out in the middle. It never came of the top of the dam."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Env't Health"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "b1ba9c0f-3814-411f-bfbf-de4e5b5f3ba0"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It never did? I was under the impression it did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "af613e93-7e95-4b10-bc1b-6c8642696d1c"
+    },
+    {
+      "start_time": 1323,
+      "end_time": 1325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That would have destroyed it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "7c85d22a-9bc1-4f3c-a8ec-c824fb97e32d"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We got notice of could have pulled up out of the brushes. Charlie had to get me to come on out, and they'd cut up the steam, and we run the boat across. The doctor was on there, and he'd say come on back. Well, that evening or night, I don't know, even then now, in less than 24 hours, it just middle of the dam went out, and when it the water just rushed right on through and left. This goes right up my tail, and it stayed there till there was dry land. It was all gotten caried away, I don't know who got it or what."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Env't Health"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "bdb83d0e-9bb6-437a-b5b4-158d6b222adf"
+    },
+    {
+      "start_time": 1371,
+      "end_time": 1431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I started to say that nobody, everybody was anxious to see the destruction. And there was an old n***er man that had a moving van. He moved us right. We built our first little cottage that lived just a block below us. And everybody in our neighborhood, the young girls and all Robert Bacon and I used to always chaperone most of the young crowds when we got in. Got that n***er man to take us out to the dam. We just stood up in the back of his big moving car. Had to go out to see the destruction that was on Sunday evening after it washed away. I think it washed away Saturday morning. Seventh day of November, 7 day of…April, it washed away in the spring of the year, and the Galveston storm was September 8 that following year. I was on the train going to Houston, the night of that terrible Galveston storm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "In Group v. Out Group"
+        },
+        {
+          "category": "Environment",
+          "tag": "Env't Health"
+        }
+      ],
+      "uuid": "5b2db5b3-805d-4a5c-b13c-75ed28c9fd87"
+    },
+    {
+      "start_time": 1431,
+      "end_time": 1437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My mother was born about a month before the storm in Galveston."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "de2ae649-726c-4b2e-abe9-4b924aa978b1"
+    },
+    {
+      "start_time": 1437,
+      "end_time": 1439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is that so?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "52bbac53-47a3-4544-b3a6-df7d6674849d"
+    },
+    {
+      "start_time": 1441,
+      "end_time": 1452,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I wish that you all would think back and tell me what you did and what you remember, especially as children. How did you amuse yourself as children? Where did you play?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "d1773e39-1735-4559-a530-a59fcd780324"
+    },
+    {
+      "start_time": 1452,
+      "end_time": 1454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Might put me in jail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "43119d24-d5d6-4dc9-b44f-15d22058585b"
+    },
+    {
+      "start_time": 1454,
+      "end_time": 1534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He was a little devil. Mr. Bacon and I, we knew each other since we were 10 years old when I moved into this house. Now, my father went to the Army, the Confederate war, from his grandmother's home. And of course, Papa knew the family so well, and Robert's father and my father were chums, you might say, just thought so much of him. I can remember just as well as if it was this evening when my daddy came home and told Mama that Mr. Bacon died this evening, we were living just a little bit below on 14th, and his home was on the Avenue between 14th and 15th, and mom and Papa went up to the house after we had supper that night. Well then, of course, as I said, we moved down here not very long after that. And of course, I said, Mr. Bacon and I then were children together, you might say. And when we had our boy, his mama used to say that our Gerald was a little angel in school, in spite of his dad, he never got into any trouble at all, and Robert was in trouble of all time. Of course, he stopped school when he was five, when he was in fifth grade, and went at his trade when he was just eighteen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "e72f230d-fb61-46f3-bb2e-b7985bd63140"
+    },
+    {
+      "start_time": 1542,
+      "end_time": 1553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "…My desk was right across from her door, and they brought her down, order he in and she come."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "585c9caf-d3ee-440e-9fff-66ba66cbf4a0"
+    },
+    {
+      "start_time": 1553,
+      "end_time": 1556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, all that's been in the history."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a89f7dfa-6214-40d5-a9d6-79792dee6fb6"
+    },
+    {
+      "start_time": 1558,
+      "end_time": 1565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Give her a seat right in front of me. I used to take a long hard look. *laughter*"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "45182e25-0025-4979-bc41-9427d76265b8"
+    },
+    {
+      "start_time": 1568,
+      "end_time": 1575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sit in the corner two thirds of the time during the day for pulling my hair, and doing things like that, so the teacher punished him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "interview Commentary"
+        }
+      ],
+      "uuid": "1c643a59-4b56-4aa7-94b7-962f759e2778"
+    },
+    {
+      "start_time": 1579,
+      "end_time": 1588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well now, when you all were growing up about how big a city was Austin. How big was it? Where did it? Where did the town start?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "254ab1da-afe8-487e-8d88-e1877583ff24"
+    },
+    {
+      "start_time": 1588,
+      "end_time": 1653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I'll tell you what the town was…We used to always figure it out that they said there was, Mayor Woodard was helped with all here for the city limits of Austin. And one time he had news, we had discussion about it. I said, Mayor, we were talking about it. And I said, well, question come, what is actually the city limits? And Mayor Woodard said, “well, the city limits run out of the old Raymond property on the west side, and, ” I forgot the street it was on, “on the east side and the North way to Colorado River and the south end of 19th street.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "6dffe273-946b-4783-bb77-0e81d8c71bb9"
+    },
+    {
+      "start_time": 1653,
+      "end_time": 1655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was the city limits?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a01fd0cb-fe3e-4856-9d1d-ddb4e692d192"
+    },
+    {
+      "start_time": 1655,
+      "end_time": 1658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was the way the town was laid out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "7bf8d9c2-841f-4fc6-a724-77f92b5e5a1d"
+    },
+    {
+      "start_time": 1658,
+      "end_time": 1716,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, that was the way Woodard said it, but told him he was off, and we got we go on each other. But I said, “Well, I I can prove it and prove it right here and never go downstairs.” Well, they couldn't. I said, “You were laid out on the south side of 19th street and on the west by Shoal Creek, and on east by Waller Creek, and on the south by the north bank of the Colorado River. That is what this first city limits.” Well, he said, “No, I don't see how you get it.” I said, “All right, the United States government didn't allow an arsenal to be built into a city, and you built the Arsenal right by 10th ward where the school is now. That was the federal government.” [interviewees crosstalk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "ab93e6de-3f4e-49e0-9647-40b2bc50b023"
+    },
+    {
+      "start_time": 1721,
+      "end_time": 1722,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A government arsenal?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "3239206d-0853-4827-95c0-af7aa2510a1d"
+    },
+    {
+      "start_time": 1723,
+      "end_time": 1759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the river, in this creek, come up there and made a bend that went around the course of Creek. By then, when they come down to that, that was a cape down there. Then they built a arsenal where they kept, kept the powder shot and cannon stuff and everything on the corner of 19th Street. And what's that little street in there? Some of your little friends lived out on that street here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        }
+      ],
+      "uuid": "1bc758c6-9f24-4e57-800d-19989bff0f7f"
+    },
+    {
+      "start_time": 1759,
+      "end_time": 1760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nineteen?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "0e4b7605-da52-4476-8966-47766940b535"
+    },
+    {
+      "start_time": 1762,
+      "end_time": 1768,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it was a rock house near there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "c10073fd-eb37-436a-a89f-924b43777e8a"
+    },
+    {
+      "start_time": 1767,
+      "end_time": 1769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What year was that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "988c7d2c-f279-4e16-9990-b3210e7748f3"
+    },
+    {
+      "start_time": 1769,
+      "end_time": 1777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was the government, the government assured me, the government was responding."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "89523ec0-5f64-4ea5-979d-e2811f250d84"
+    },
+    {
+      "start_time": 1778,
+      "end_time": 1781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, yes, Robert, when the city was laid out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "39542e8d-05a6-4f30-9eec-645c305ad2b4"
+    },
+    {
+      "start_time": 1784,
+      "end_time": 1788,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What year was that that building on 19th and Guadalupe built?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "d11107bf-a172-4d99-bb0b-c9b8550a08c0"
+    },
+    {
+      "start_time": 1788,
+      "end_time": 1794,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well it was built about the same time the government put their soldiers. I don't know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "be84271f-edb7-4def-ba7d-89412f1ad517"
+    },
+    {
+      "start_time": 1794,
+      "end_time": 1798,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One thing that I remember about that place was…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "49f9abb5-a42f-42b0-a737-3c9f96b96a7e"
+    },
+    {
+      "start_time": 1798,
+      "end_time": 1826,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's what I was trying to show him that they went to working and built this place right across the street, so this side of 19th Street and then, of course, over here, old man Raymond that owned everything from Sixth Street, from up here to 12th Street on the other side of the creek here, why, right across the creek there, we’d go hunting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "a6a83f2e-3280-45b2-b7f7-09aaf17c8bcb"
+    },
+    {
+      "start_time": 1830,
+      "end_time": 1833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What kind of hunting? Rabbit hunting?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "bb41288e-afe8-4a17-8a2b-eda79f50cba3"
+    },
+    {
+      "start_time": 1833,
+      "end_time": 1837,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Doves. Rabbits. Anything that would come up, we’d shoot. *laughter* [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "75570b1c-ca3f-4dee-b8c1-7629c3263386"
+    },
+    {
+      "start_time": 1841,
+      "end_time": 1868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I started to say Robert, you remember when they had the flood at the time they built the university? Now, I guess, don't you remember there was a, you used to hear them say that one of the professors of the university said the water would come up as far as where this place is that you're talking about, don't you remember he built big iron steps on the outside because he said, if it ever had a flood, water would come clear up that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Env't Health"
+        }
+      ],
+      "uuid": "bf5cf3eb-2994-422f-9f8d-01dffca8aa49"
+    },
+    {
+      "start_time": 1872,
+      "end_time": 1874,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don't you remember, ma'am."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "57caca2d-07a2-4d66-ad8a-61765b18e94f"
+    },
+    {
+      "start_time": 1874,
+      "end_time": 1876,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that's right by the church, you know,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "76d1f160-5bfd-4cde-96fd-6abd6fd2ceaa"
+    },
+    {
+      "start_time": 1879,
+      "end_time": 1881,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The University of Methodist church right on that block."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "b477d184-8802-4336-806a-61f9430d442a"
+    },
+    {
+      "start_time": 1882,
+      "end_time": 1893,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, on that street there, this fellow built his place and run his steps up in an [inaudible] and walk around into the house would [inaudible] come up today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "625e38bc-879d-438b-bd1d-78c26498d26a"
+    },
+    {
+      "start_time": 1893,
+      "end_time": 1900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've heard Mr. Bacon's mother say she remembers when the water was up as high as Sixth Street."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        },
+        {
+          "category": "Environment",
+          "tag": "Env't Health"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "f7c10524-a777-4322-9812-73df6a7399ff"
+    },
+    {
+      "start_time": 1900,
+      "end_time": 1903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes I remember, remember."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "1cb22aec-89e3-4cc9-bdf0-b76aedc54ece"
+    },
+    {
+      "start_time": 1903,
+      "end_time": 1915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She remembered when she said she was three years old, “This, this storm sewer that we have right here on Nueces used to be a creek.” She said “I waited in it many a time when I was three years little.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "a6d925ed-6949-4579-a9b7-7d6a89cf3f9c"
+    },
+    {
+      "start_time": 1915,
+      "end_time": 1928,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This street right here, little [inaudible] place, from the 19th century on down here. And then 45 across street and goes back into big Shoal Creek."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "397d5477-d799-47b3-bc8c-f4cf302bad44"
+    },
+    {
+      "start_time": 1930,
+      "end_time": 1938,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have all the pictures. Even sent off some of them at this place when we made a storm serve on this street, right on this corner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "93991f5c-b126-4f45-a895-30a5fa28edea"
+    },
+    {
+      "start_time": 1938,
+      "end_time": 1944,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is that so. You've got a lot of interesting pictures and things. You seem to have such a good memory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "e6b76a86-914c-4cd9-941c-26dc1a9f2734"
+    },
+    {
+      "start_time": 1945,
+      "end_time": 1968,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I really do, as I told you, I've been taught that I believed I had a little clearer memory than Mr. Bacon. We argue he and I a lot of times, sitting here now at night about different things. Because, boy, enough, you might say together, etc, and but I do, I don't have as many pictures as I wish I had. Mr. Walter Long, you know, is so interesting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "db14241a-3738-4c85-9b8c-5a69004b6ac4"
+    },
+    {
+      "start_time": 1968,
+      "end_time": 1969,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, he really is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "453a89b3-3585-469a-a30c-d99211b460b1"
+    },
+    {
+      "start_time": 1969,
+      "end_time": 1977,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He and Mr. Bacon, good friends, and he was over yet not so very long ago. And I gave him one or two pictures that he felt like was of interest to him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "daa068d4-8408-4205-8a17-c549268d35b7"
+    },
+    {
+      "start_time": 1979,
+      "end_time": 1992,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, what did you do for amusement as young people growing up? I mean, you know, when you were young ladies And gentlemen, of course there wasn't any television or radios or anything like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "81cfc7ad-53e7-4f2a-91ce-1f18502202cb"
+    },
+    {
+      "start_time": 1991,
+      "end_time": 2012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well no, when I was a kid… When I was 12 years old…I was still riding horses, I played with horses."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "2eb50396-a110-401a-871e-e7c76527d326"
+    },
+    {
+      "start_time": 2013,
+      "end_time": 2017,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His mama never missed a circus, took everyone in the neighborhood all that time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "3052c14b-fcca-49e1-8d49-2a3a0bcfe30c"
+    },
+    {
+      "start_time": 2024,
+      "end_time": 2043,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I got dabbling [iaudible mumbling] with Jersey cattle in the backyard, we always had 2 or 3 wild horses back there. [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "ebe71fb7-ba86-4741-b58d-a10b214eeaed"
+    },
+    {
+      "start_time": 2045,
+      "end_time": 2050,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would work all day and ride all night with cattle… [inaudible mumbling]\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "0ce40248-a36d-4521-a624-6f9e65bb8289"
+    },
+    {
+      "start_time": 2051,
+      "end_time": 2056,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where around here did you ride? What open county did you have to ride? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "67128ebc-27a0-483e-844c-698afc541bd2"
+    },
+    {
+      "start_time": 2059,
+      "end_time": 2061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right up congress avenue. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "39cad36f-f876-4591-814c-d4cf7fc35b24"
+    },
+    {
+      "start_time": 2061,
+      "end_time": 2066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When was that?! What year was that? [expression]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b0c2616a-a4f2-4c2a-acc7-41e4a1547f08"
+    },
+    {
+      "start_time": 2067,
+      "end_time": 2071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My goodness I couldn’t tell ya, Oh I don’t not he was a mischievous boy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "30ee2ca3-f8bd-46d3-9805-b4f321ed8b2b"
+    },
+    {
+      "start_time": 2072,
+      "end_time": 2135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was around 14. Boys come in from a ranch above there we rode around downtown. This fella said: “I can beat you up on the city capital fence [inaudible] right up back.” When we got up at Sixth Street, John Shaneville was a policeman [inaudible] ,going to arrest us, so we got way up there. I got up there and said, 'Bill, you bring that horse around down.’ Bill came up and said, \"What are you boys doing here?!” I said, \"We wasn't running them horses up there.” He took a bit and ran away and I tried to catch him!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "08434871-4e78-44fd-8512-f0c9a3a10c03"
+    },
+    {
+      "start_time": 2142,
+      "end_time": 2147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughter] teenagers aren't all that different now to what it was back then."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a71903dd-7d33-4fb3-9338-a1c095687a98"
+    },
+    {
+      "start_time": 2147,
+      "end_time": 2174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I look back and I think how I loved my dolls and how I played dolls. And when I lived over there on 14th, Estelle Martin and I played dolls between the fence. We'd take our dolls out and the big roots of the trees, we could build a little doll house right there among the roots of the trees. I just look back now and I think of the good times if I could have had the things that children have to play with now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "ce1987c8-39ce-4d46-b05c-6416ce038473"
+    },
+    {
+      "start_time": 2175,
+      "end_time": 2179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think you probably enjoyed them well, because you made your own amusement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "09d7abe8-d3d9-496d-8b75-3a76500a76bb"
+    },
+    {
+      "start_time": 2180,
+      "end_time": 2203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have my first doll I can ever remember. But really, there was nothing we can look back now. We had our first little home on East 12th Street when our boy was about three years old. We moved out there, and we lived there until he was 15, when we moved here, and our daughter was eight."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "89fc5af4-08b4-4a7c-aae4-d5898d0a423f"
+    },
+    {
+      "start_time": 2203,
+      "end_time": 2206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you moved into this house, and you’ve been here ever since?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "afbf37cf-0bf5-4f3a-b08b-4b40e5aa3f6d"
+    },
+    {
+      "start_time": 2206,
+      "end_time": 2213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We've been here ever since and she'll be 60 years old the 23rd of this month, and she was eight when we moved here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "7aa29306-e7c9-44e6-b316-02639eb07095"
+    },
+    {
+      "start_time": 2214,
+      "end_time": 2236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I started to say there wasn't anything except the circus. There were no playgrounds or anything. We had a fence around our place, and I knew where my children were. They all had everything to play with, but they played at home in the yard, and then when the 10 cent moving pictures came that was the amusement?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "ec3a2541-0b4e-40fa-ae9c-8ef9a5e3288b"
+    },
+    {
+      "start_time": 2237,
+      "end_time": 2242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What about the old opera house? They did have good entertainment?\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "257b1996-b96e-42ec-9768-b45684bdb644"
+    },
+    {
+      "start_time": 2242,
+      "end_time": 2249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, yes, I can look back now. My father was secretary for the John D Hood campaign when they built the confederate home"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "dd4eca8f-da17-4b0e-9b0c-ba31dabb824e"
+    },
+    {
+      "start_time": 2253,
+      "end_time": 2255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, what year was that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "1114b526-f709-4526-b7c4-e441a15a3784"
+    },
+    {
+      "start_time": 2256,
+      "end_time": 2330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I was, let me see. What year was that. Let me see. The first big storm in Indianola. Our organist for the church was drowned, Miss Crooker was drowned. My daddy was as I said, that this place where the Singer sewing machine is now, the avenue was a little store, and the merchants all over Texas, round over town, country places. He gave different gifts to be given for a big concert to help raise money to build a Confederate home. And my daddy was secretary and had his office in this building. I can remember just as well going down there. I remember this day in particular about the storm, because I carried lunch down to him. And when I got down there, he said, Ella, we've just heard that Miss Crook has drowned at Indianola. I remember that day in particular, and I guess that was ‘82. I was born in ‘74. How old would I be? 8 or 9 years old, I was something like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Env't Health"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "799e2c3b-8070-4575-aac8-ab0adb1691e5"
+    },
+    {
+      "start_time": 2331,
+      "end_time": 2332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You remember very clearly"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4bdee110-84ef-4876-8733-2fd8f140a558"
+    },
+    {
+      "start_time": 2333,
+      "end_time": 2347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was about 10 or 11 when I moved down here. And of course, I said things like that. I remember so well. But as far as having things built to entertain us well, to dance, get up, dances."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "interview Commentary"
+        }
+      ],
+      "uuid": "dcc70929-f265-48bb-9a7e-15064f6856c6"
+    },
+    {
+      "start_time": 2348,
+      "end_time": 2349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you have any dances?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "8cbf3a2a-2fbb-4d31-bdb3-48fb4051f12d"
+    },
+    {
+      "start_time": 2349,
+      "end_time": 2357,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh from the time I was a child, eight years old, I danced. My daddy used to say we danced what we called the racket."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "ee15a5a2-c181-4f1d-8b70-c4ef2e4a612b"
+    },
+    {
+      "start_time": 2357,
+      "end_time": 2358,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The racket?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "c40ae90f-e1dc-427a-ac33-3b0e823fd465"
+    },
+    {
+      "start_time": 2359,
+      "end_time": 2378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The racket. And I danced all the time at home, and papa used to say, daughter, you make racket enough without dancing. But we danced, and my sister and I, we always were at St David's. Had no other church, and we put on little toddlers, you know, to raise little money and things like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "13b35682-f864-44eb-9a1d-89f57a1ca692"
+    },
+    {
+      "start_time": 2378,
+      "end_time": 2403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While the young folks, the young young people, were rehearsing like my sister, six years older than I, and we children were out in the hall. We rehearsed a lot of times up in the temporary capital. I remember when we used to go up there, but that time, Mr. Bacon was still running after me. He used to come and go with my sister and I to these rehearsals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "1c3d8845-a8d2-4e28-90f0-0227f6f0b6c4"
+    },
+    {
+      "start_time": 2404,
+      "end_time": 2430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And of course, he didn't dance until 16 years old something like that maybe, [inaudible microphone] not quite that old. my sister and i were going to houston to spend vacation and he was working then. He worked where the paramount theatre is now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "87b8dab9-1777-4be5-883d-7e4f7f77f587"
+    },
+    {
+      "start_time": 2432,
+      "end_time": 2466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As we came down the avenue to go down, why? I said, first, that looks like Robert sitting there. And he looked up and saw us, and got up to meet us, and he had put on long pants in the meantime. And we told him we were going to Houston the next day, and he wanted to know how long we were going to be gone. And I said, Oh, around the time school starts. And so the day I came home from Houston, he was at the train to meet us when we came home two or three weeks. After that time…, [inaudible microphone]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "92ac115b-2ae0-4383-8c7d-eb7a81cd19e8"
+    },
+    {
+      "start_time": 2472,
+      "end_time": 2517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then we moved to Houston when I was nearly 15, and he was down the train to see us off the day we moved to Houston. He said, Ellie, you're going to write to me? And I said, Well, I don't know whether I will or not. I guess I will. So I guess, after we lived in Houston a week or 10 days, mama said, Ella, I thought you promised Robert, you've got to write to him. My mama, my papa and my sister all were crazy about the Bacons, of course, they had known him all his life and I said, Mama, I don't know how to write a letter. Well, go get your sleeve right now, correct, and then you copy, and that's the way I wrote his version. Now, think of a child, 16-15, years old doing that!!(Emphasis on expression)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "83f06eba-416b-4411-bbeb-c21889f042d4"
+    },
+    {
+      "start_time": 2521,
+      "end_time": 2525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, tell me about the street cart. New Story. Tell me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "c6fe66de-1946-46cc-860f-61198c6f1b4e"
+    },
+    {
+      "start_time": 2528,
+      "end_time": 2563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When we lived over there on 14th and after I married, my daddy used to come up to see me. He was always in the legislature, and we kept house for one summer right over here on Ninth Street off of Rio Grande. And I remember at that time, Papa was here on a visit, and he was waiting for the street car at the Capital. When he got home that day, he said, I'll just go to purgatory, cursing these Austin street cars. They were mule cars then. They were still mule Cars then."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "12259ce3-8a78-41cf-97ea-9d5848d2e2cb"
+    },
+    {
+      "start_time": 2567,
+      "end_time": 2571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, what about what year was it? What year would that be?\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4c1ef82b-6bb6-4d7f-b0ac-77ccbecfe733"
+    },
+    {
+      "start_time": 2571,
+      "end_time": 2587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh I can't imagine. Oh, did that? Did they have? Yes, I guess they did have the mule street cars then, I think I kind of remember when the electric cars first went on. We were keeping the house- [Mr. Bacon cuts off]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "40d86199-62d7-48db-8126-a8ba552a77ab"
+    },
+    {
+      "start_time": 2587,
+      "end_time": 2587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NO"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "079533e5-5a0d-4c22-ab31-62fc0635f4ed"
+    },
+    {
+      "start_time": 2587,
+      "end_time": 2587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No??"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9bfc11be-8c43-4eb2-a40d-6a4798da930f"
+    },
+    {
+      "start_time": 2587,
+      "end_time": 2592,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First street car is when we moved to that house on the corner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "49d23622-4f22-4bfc-ad4e-24c8bf6758a6"
+    },
+    {
+      "start_time": 2593,
+      "end_time": 2599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yes your mom was home yes… Well, we lived there for three years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "243349f8-9ed1-467e-a9b1-f2cec4ea0646"
+    },
+    {
+      "start_time": 2600,
+      "end_time": 2608,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They run the mule cars to the Ulrich market and stop at that corner for a long- [gets cut off]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "450e8998-6cca-45ef-8ad6-d10b13444b97"
+    },
+    {
+      "start_time": 2608,
+      "end_time": 2609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At St. Bernard."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "42e65a31-1512-4024-978b-2540828e2b2c"
+    },
+    {
+      "start_time": 2610,
+      "end_time": 2626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At St. Bernard, for about a year or two years, and then they… then they turned into to the electric [street rail] cars, and there they extended that on out to 12th Street out there on the corner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "f1d6bcf9-6fa6-47ba-9d53-d91429f06c4b"
+    },
+    {
+      "start_time": 2627,
+      "end_time": 2629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now we’ve been living out there so terribly long. When the dam and the dam broke in 1900, Gerald was three years old when we moved our first little home, he was born in [18]96."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Env't Health"
+        }
+      ],
+      "uuid": "79c64b44-7c55-4eb6-bb62-1bee7f764ab0"
+    },
+    {
+      "start_time": 2642,
+      "end_time": 2646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible mumbling] used cars at first, I had to walk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "968614e8-973d-4ce8-a995-55544d873181"
+    },
+    {
+      "start_time": 2648,
+      "end_time": 2653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wrote a piece of poetry when these new cars come on (something about the trolley)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "2d240c14-6240-48d4-99e8-bf626628a0c0"
+    },
+    {
+      "start_time": 2654,
+      "end_time": 2657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You did?! (laughter) Where was it published?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9fc40cf5-5720-4392-ab3e-a16c1d973d6c"
+    },
+    {
+      "start_time": 2657,
+      "end_time": 2693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It never was published. Every now and then I'll have a fling and write. I've had a few pieces written or published. I have a piece about my dad. I have piece Mr. Long had that printed for Father's Day, not so awfully long ago. And then I have a piece about the Confederate home. My daddy cooked the first supper. My mother made the first beds when they opened the home. And little things like that. When our babies were born and the first granddaughter was born, things like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "7b50a1a2-38d4-403a-8a9e-7cacd28e5183"
+    },
+    {
+      "start_time": 2693,
+      "end_time": 2696,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Those aren't just little things those are important ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "46e691c7-f66a-40b5-a76c-4b3d3a9b088b"
+    },
+    {
+      "start_time": 2696,
+      "end_time": 2703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well yes they're not bad. [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "dcb10ac7-b195-4b5f-86c0-dc530fd55b58"
+    },
+    {
+      "start_time": 2704,
+      "end_time": 2709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, what was the fare on the mule car? How much was it... [interviewee crosstalk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "1696da8c-086c-402f-80be-7d6e5b8b5d84"
+    },
+    {
+      "start_time": 2709,
+      "end_time": 2710,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They had red tokens. Red bone tokens. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "f582dc8e-c013-4884-ad42-5476de16d9e2"
+    },
+    {
+      "start_time": 2710,
+      "end_time": 2732,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Red tokens [inaudible] and you'd get 5 cents a piece. You know, you'd get six of 'em for a quarter, and we'd take six of 'em and every show in town would take those things [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "4f9d337e-5062-476a-bed0-6fdd393dedbc"
+    },
+    {
+      "start_time": 2732,
+      "end_time": 2733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I tell you, he was the devil!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "cf50fa79-d7c8-44b9-9087-da1d78ad19a1"
+    },
+    {
+      "start_time": 2734,
+      "end_time": 2758,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "7c54ba85-3b03-4bcf-850e-da0c35685484"
+    },
+    {
+      "start_time": 2760,
+      "end_time": 2762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wish we could get hold of one of those tokens."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "99056595-b71c-4df5-bdc6-d3254275b901"
+    },
+    {
+      "start_time": 2763,
+      "end_time": 2780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was just thinking, I don't have one. I save everything. I just save everything. And I just was thinking, I've had one of those red bones. [inaudible] regular red boned nickels."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "3ec852aa-3d90-45d1-9d8a-ab472be3500f"
+    },
+    {
+      "start_time": 2780,
+      "end_time": 2788,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, not the regular red one. [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b6071ddb-37b0-4215-9aa9-8c2b53cb2028"
+    },
+    {
+      "start_time": 2790,
+      "end_time": 2807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, [very inaudible] I remember now it was a tiny bit bigger than the nickel, used to be larger than the nickel. [inaudible] pretty good profit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "1fce3aa4-9088-468d-8f25-8b7cc70c35f7"
+    },
+    {
+      "start_time": 2808,
+      "end_time": 2813,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When were the streets first paved? About what year was the Congress paved?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "45994732-290a-4234-99dd-6c0bb7029e14"
+    },
+    {
+      "start_time": 2813,
+      "end_time": 2837,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's what it was. I was just about to say what I was gonna say a minute ago. When our boy was three years old, when he was a year and a half old, for Christmas that year he was born in April, and when he was two years old, the Christmas before, we went to come to town to buy Christmas things for him, and Walter Tips, big hardware store is exactly where Chris is now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "420791b2-0d1c-4976-9f43-358090b9a9f8"
+    },
+    {
+      "start_time": 2840,
+      "end_time": 2859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had had a terribly rainy spell of weather that time. We were driving our little bed in the horse, and we, I remember it so well. We came up to get out of the street car, or rather, the buggy, to tie the horse there, and the mud was up to the hubs of the car, the buggy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Env't Health"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "03fc629c-704c-4b98-ac23-75dcc2f03994"
+    },
+    {
+      "start_time": 2859,
+      "end_time": 2860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gracious"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "205a7dc7-86cb-4ee8-ae9d-2b0de6c48ccc"
+    },
+    {
+      "start_time": 2862,
+      "end_time": 2867,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Little boardwalks across the path you know. I remember that Christmas so well"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "de27b1ef-0932-4811-af67-ac98455aed3a"
+    },
+    {
+      "start_time": 2869,
+      "end_time": 2871,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, now that would be what year your son was, a year and a half?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "8e8dacd3-7325-4e6f-b28f-728c74e921a1"
+    },
+    {
+      "start_time": 2871,
+      "end_time": 2876,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Year and a half he was born in 96,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "183a232d-a0b5-475c-b5e0-1833de94cc48"
+    },
+    {
+      "start_time": 2876,
+      "end_time": 2879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that would be married 1897 or 1898?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "da0b8e4a-8d20-46ed-99d2-f02ab25d9e99"
+    },
+    {
+      "start_time": 2881,
+      "end_time": 2884,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was before there was any pavement on the avenue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "41f76e74-0483-41f4-a5d4-1c3d24a7cbd4"
+    },
+    {
+      "start_time": 2887,
+      "end_time": 2916,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bunch a men and put that big heavy ditch from 8th street down to Congress Avenue, From seven street on over to the middle block. We had to put a sewer line in there. They were going to talk about baby, and I had a bunch of men working on account day and night. that's the- thats the place I took up two days and two nights of not sleeping. Sit around and drink a little coffee. [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "64b0871f-b3d1-4195-afa6-147183b47174"
+    },
+    {
+      "start_time": 2922,
+      "end_time": 2925,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I'll bet the weather was a real problem because the weather wasn't different then was it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "f40dacc6-a07b-42d0-a90b-090741c3dbf2"
+    },
+    {
+      "start_time": 2925,
+      "end_time": 2937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've been on 6th St many a times… Looking back it was about 10 inches deep."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Env't Health"
+        }
+      ],
+      "uuid": "4a4b218e-075e-4f10-81e3-469728822438"
+    },
+    {
+      "start_time": 2937,
+      "end_time": 2939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We don’t have the type of weather we used to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env't Indicator"
+        }
+      ],
+      "uuid": "00604341-58cb-4caa-860b-e31e13611296"
+    },
+    {
+      "start_time": 2940,
+      "end_time": 2941,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes we do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env't Indicator"
+        }
+      ],
+      "uuid": "8f992a4a-0fc0-4807-9e53-9f0f612cc953"
+    },
+    {
+      "start_time": 2942,
+      "end_time": 2945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We don’t have the northern blue blizzards anymore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env't Indicator"
+        },
+        {
+          "category": "Environment",
+          "tag": "Env't Health"
+        }
+      ],
+      "uuid": "0feaac4d-8aaa-4c3c-9d76-274806d9ea0f"
+    },
+    {
+      "start_time": 2947,
+      "end_time": 2950,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible] ...weather to a certain extent"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "849e395b-f33a-4e08-b822-d72d67958972"
+    },
+    {
+      "start_time": 2951,
+      "end_time": 2973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I remember we married in 1894 and one pretty Sunday evening with the sun shining bright, just like this. His uncle Albert Picks lived on Brazos between 14- between 15th and 16th and after, he was going off to fight chickens that Sunday evening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env't Indicator"
+        }
+      ],
+      "uuid": "c3f0ee2c-b3af-4c91-ae18-fa010c0cd66d"
+    },
+    {
+      "start_time": 2974,
+      "end_time": 2975,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh game chickens?! (emphasis on expression)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "33d81958-da2f-40cd-ad8d-1cd2148087b6"
+    },
+    {
+      "start_time": 2976,
+      "end_time": 3028,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes and I decided I believed I'd go up to see Aunt Lizzie. And I went up there. We only walked four blocks to the Avenue, and up the avenue was just a nice walk, and it blew up one of those cold, blue northerners, and I nearly froze before I got back down home that evening. Now that's how it changed, just that quick, but we don't have the bells anymore, and then we're prepared, because with the radio and the television, people don’t have broken pipes. I've seen Mr. Bacon come in with his raincoat during one of these freezing spells, takes his raincoat off and put stand alone. It was frozen from the water from a broken pipe. Now you don't ever get anything like that. You never get a broken pipe or one time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env't Indicator"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        }
+      ],
+      "uuid": "d31f4fb4-f6f8-4926-9940-07b546ea8464"
+    },
+    {
+      "start_time": 3029,
+      "end_time": 3034,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did the, one time did the river river freeze over? Did the Colorado River freeze over?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4e197b3b-ffe4-403a-b6a3-19dd08c0d020"
+    },
+    {
+      "start_time": 3035,
+      "end_time": 3038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible] ...I saw it too there was a picture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env't Indicator"
+        }
+      ],
+      "uuid": "eade1a8e-c8e2-4e5d-9318-93cc8a077c3e"
+    },
+    {
+      "start_time": 3039,
+      "end_time": 3077,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have forded the river. I've forded the river many a time. Bessie Rector lived over what they call the bowling edition. You've heard him talk to the bowling addition. They lived in bowling addition. And I used to go and spend a day or two at a time with Messi restaurant. And I boarded the river with her daddy, or his husband, Mama, or whoever was, took little children. So. Many a time, but it was between off a guard loop. It seemed to me like about there. We go across Barton Creek Road."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "6da1a940-9117-4f7f-ba7e-c785f23eb705"
+    },
+    {
+      "start_time": 3081,
+      "end_time": 3092,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where the cow goes right down by the country fortified River... cross the Colorodo river. That was called the… I forget."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "20a7c3f8-2e4e-45c0-9907-1b68e0ca9155"
+    },
+    {
+      "start_time": 3092,
+      "end_time": 3093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I forgot what the name was,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "ec0996e5-b4fa-45c5-9bdf-b01156fcc825"
+    },
+    {
+      "start_time": 3094,
+      "end_time": 3134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ford had a name down there. And everybody come into the river there. And it's the rivers that come across the bridge. But you used to have to pay 10 cents to ride a horse, because they had to be for a wagon or a buggy. Any people all forded down here, and then down here on the east spot is what they call the 10 cents down there. But there's four down here. I forget to his name. I can't think of it. I know we'd always ford there when we were going up…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "37ba9893-58c2-4898-853f-ac1640c0dc07"
+    },
+    {
+      "start_time": 3135,
+      "end_time": 3141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know always, they never had a little ferry boat, fairy join across there, though I never remember that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "68c1000f-bb38-48ea-a651-16b283102ed9"
+    },
+    {
+      "start_time": 3143,
+      "end_time": 3153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When did the Colorado River stop being navigable? You know they, I know that they had barges up and down it, and they carried freight, but when did that stop?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "31cac3dc-838f-49c7-b9af-7c9842dde8e7"
+    },
+    {
+      "start_time": 3157,
+      "end_time": 3191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I never, I never knew the Colorado river, ever having any commercial business, a barge or anything like that in my lifetime. The reason why I say that, the mouth of the Colorado River covers about five miles and you can drive wagons across it. it just disappeared and cleaned out and cleaned it out three or four times. That's the reason there's never been any boats along the colorado river."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        }
+      ],
+      "uuid": "f4d468d2-07ce-4bf4-906c-10fd73eb50bb"
+    },
+    {
+      "start_time": 3192,
+      "end_time": 3214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I remember Mr. Swan told me one time that there was a time when when very light flat boats, sort of barges, you know, with very little freeboard, and that they there. It wasn't very far, it would say, from Smithville to here. But I just wondered, if you remember anything like that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4b032f87-a88d-4852-a005-cc0f8cc81123"
+    },
+    {
+      "start_time": 3218,
+      "end_time": 3225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can't remember except of course they had a whole lot of what they call fishing boats, flat bottom. . ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "7f3b28fd-0e0a-4ca2-a342-d107f6a74876"
+    },
+    {
+      "start_time": 3228,
+      "end_time": 3258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where the bridge is now, back in the bathhouse a big to-do. Mr. Jovid had the bath house at the bathhouse. He was... the bill poster when they used to put all these big signs of the circus and everything you know how to go around. Well, he was wanting to live right across the street from his base, and he had the bay house right at the foot of the did you go down right there, just this side of the bridge, right where the bridge is now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "1546d86c-561e-4f8a-b14d-dcac4a295564"
+    },
+    {
+      "start_time": 3259,
+      "end_time": 3264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, was it the place where people could get through the bathing suits? Or what was it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "7522f30b-3cc9-4aa9-9078-82be3cf5d9ec"
+    },
+    {
+      "start_time": 3264,
+      "end_time": 3287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes well they had to pay of course, most of the boys were the ones who did the swimming. Now, of course, Deep Eddy was the first bath house you might see when they were going to swim and everything that was at the time 19-, when Gerald went off to [inaudible] everybody went crazy about swimming."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "82e18f90-9d00-4b94-b832-346c18c7bc9a"
+    },
+    {
+      "start_time": 3288,
+      "end_time": 3292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How about that licking you got down at the bathhouse. What was that you said?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "226d5a9a-625c-4259-af8d-b3ec9811f6e7"
+    },
+    {
+      "start_time": 3293,
+      "end_time": 3308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Every time I go to the bath house and go back home and about going again. [inaudible speaking] He said: “Are you going again?” I say, Yes, I'll go again for [inaudible] licking three times every time you did it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a1e9d9de-83b8-4165-9bc9-20b564f5a986"
+    },
+    {
+      "start_time": 3309,
+      "end_time": 3317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good three times his mama whipped him every time he did it wrong. And then when there's something again, they will be put out there to drink it. [Inaudible over laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "7c5aae30-6f0c-49ae-a952-051d2675e518"
+    },
+    {
+      "start_time": 3318,
+      "end_time": 3330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Inaudible] are you gonna do such thing again and I'd tell them \"yes\". [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "deabaa51-1b29-442a-855b-add396fa6b79"
+    },
+    {
+      "start_time": 3331,
+      "end_time": 3333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His mother and his uncle Bill were twins."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "401f0489-ed41-4956-9774-b45e9fadf47f"
+    },
+    {
+      "start_time": 3334,
+      "end_time": 3335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b309402b-e1d6-4c2e-bb19-05416cf1b52e"
+    },
+    {
+      "start_time": 3335,
+      "end_time": 3341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And after his father died, his uncle Bill was kind of the head of looking at..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4f54fe67-6d89-4b03-9ee4-1e584afceb21"
+    },
+    {
+      "start_time": 3341,
+      "end_time": 3425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We'll forget the last time we had in the backyard one of these old time cisterns. Round cisterns, you know, she ended up and... Uncle took her three times and [inaudible] I loaded up a shotgun, I load it up for that Monday, [inaudible] and they were four n***ers room out there in the back place. I told him [inaudible] he ain't gunna whip me no more. If he is he knew about something. Mama said something about Uncle Bill knowing that I hadn't come home but pretty late. Everytime I come home late I’d go down to the bathhouse and I’d have the whole neighborhood watch me get a whippin. Every time he’d give me a whipping I didn’t like it. I told him, \"Are you gonna whip me hard like last time?\" “You’ll get your lickin now,” he said. “If I don’t kill him this time,” he said. [inaudible] I didn't like it myself, so I told another Bill doesn't [inaudible] last time, He said he'll give you a licking like last time. [inaudible] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Community",
+          "tag": "In Group v. Out Group"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "9dc03af7-6180-4abe-9586-12716529961b"
+    },
+    {
+      "start_time": 3431,
+      "end_time": 3439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You got in your head to shoot Uncle Bill. And they watched me pretty good. And they told Uncle Bill. So, Uncle Bill came by and called me in the yard."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "bed4892b-e809-407a-b7ea-00548d3eb4a3"
+    },
+    {
+      "start_time": 3440,
+      "end_time": 3480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He says sit down on that stool, I wanna talk to you, He says, you gotta a gun(inaudible).He says, I just want to remind him, you just tell me where to make you a good boy. You say, you know I'm coming to your daddy before he died that I'd take care of you. What makes you a good boy? Well, I said, I just like to do just as I please. I'm tired of being whipped. I'm going to do just as I want to do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "a8312980-453a-49d3-a6d9-ccd2d6c79f59"
+    },
+    {
+      "start_time": 3483,
+      "end_time": 3525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well. He said, Now listen, he says, I'm not gonna whip you this evening. But i’m only going to tell you this, “From now on, you can do whatever you want to do. I just won't say a word to you. Now, go ahead and come and do get in jail. I'll get you out the first time, second time, I'll spend money to keep you in jail.” He said, \"you understand that do you, \" but he said, “Now you go ahead, you go on and you do just as you damn please.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "693ec614-6323-4bdb-86ab-678f5cb78cd9"
+    },
+    {
+      "start_time": 3530,
+      "end_time": 3542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After dinner come, about four, five o'clock come, I said I believe I'll go uptown. I walked up Pecan St, Sixth St."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "f852f6b5-457a-4942-b8bf-6dc218fcd1c8"
+    },
+    {
+      "start_time": 3546,
+      "end_time": 3559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Come on up the avenue, …capital to around when to go back and [inaudible].... I got in there about 9:30 at night. None of them said a word."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "City Geograohy"
+        }
+      ],
+      "uuid": "2d52d5fa-c144-44c2-b3ae-8f521c668714"
+    },
+    {
+      "start_time": 3564,
+      "end_time": 3582,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Next night, I went uptown too. I might have stayed out there about 10PM out to 11 o’clock. So i had to come home at 11 o’clock at night for three nights. Not a darn word to say. I don’t know what it was, but I wouldn't go off any more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "bb254a59-ced3-413d-bffe-5c392942972f"
+    },
+    {
+      "start_time": 3583,
+      "end_time": 3586,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It wasn't anymore fun!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "1d2d32b7-6d83-45a7-86a7-4a4897ff1ed3"
+    },
+    {
+      "start_time": 3587,
+      "end_time": 3601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We'll come back and every time I'd go down the street soon, and I said, “uncle, can we such and such a time I can go down to bed? I'd gone before that and she said “No, we're not doing that” (Laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "231101e7-ed8b-4070-827c-f6ad00e9811d"
+    },
+    {
+      "start_time": 3602,
+      "end_time": 3605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well. It sounds like your uncle will was pretty wise man."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "29157bbb-b8af-4906-8ddc-24331771d0ee"
+    },
+    {
+      "start_time": 3606,
+      "end_time": 3615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, now you know he was older. You told him, he said, [Inaudible]... He told me he wa gonna shoot you. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "669e0726-32a6-4de4-afea-713443b5f2e3"
+    },
+    {
+      "start_time": 3622,
+      "end_time": 3640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We always said he had kind of a disposition, that he'll get even if somebody does him a dirty. he's going to get even if he doesn't forget, or he doesn't forget, he can do anything to get even if he can do something to get even, he is satisfied. But that's his disposition."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "c942f014-b717-4c05-ab8c-7b654e7df1ed"
+    },
+    {
+      "start_time": 3641,
+      "end_time": 3657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When we had built our first home, he had bought the lot, paid for the lot, and of course, he was just working. As I said, he was making $15 a week when we married and we wanted to… we kept the house just for a little while."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "33ee2485-2048-4a65-ab74-877b6a29f487"
+    },
+    {
+      "start_time": 3658,
+      "end_time": 3692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One summer when a couple begged us to look after their home safe while they had a vacation, and I had a little taste of keeping a house, and I just wasn't satisfied when I went back to his mamas to live, you know, and I said, “Robert, let's have a home.” So we bought this lot out there on 12th Street. Paid $250 for that 50 foot lot, 120 feet, 28 feet deep. We had that lot paid for but we still owed a little bit on the adjoining lot we bought another one in the meantime we still owed $50 or $75."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "2bcd5f27-10dd-4ea2-84f8-3b3c1319c7c6"
+    },
+    {
+      "start_time": 3693,
+      "end_time": 3701,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We studied it for a bit and I said “The only way in the world we can get a home is to borrow from the Building and Loaning Association. “"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9c8ddbae-1819-4ee1-a893-244419b19c46"
+    },
+    {
+      "start_time": 3702,
+      "end_time": 3737,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So he said, \"we\"ll do that!” Well at that time this man Mr: Wilmot, this big man who had all the money in the world, was the head of the Building and Loaning Association. Mr. Bacon was just a boy, about 22 or 23 years old then. He went to borrow a $1000 dollar loan and Wilmont wouldn't consent because we couldn't get a lean on the adjoining lot. Robert came home... [interviewee crosstalk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "0b4ad6f0-1449-45f9-ab54-61f59f0a242d"
+    }
+  ],
+  "set": "Default",
+  "event_id": "07991491-db4f-4462-87c6-96823719868f",
+  "source_id": "22cf4953-c428-4eec-be08-ed62f0d7999e"
+}
