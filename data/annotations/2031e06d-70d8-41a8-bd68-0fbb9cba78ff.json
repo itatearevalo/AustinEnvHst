@@ -5378,12 +5378,12 @@
           "tag": "Infrastructure"
         },
         {
-          "category": "Community",
-          "tag": "In Group v. Out Group"
-        },
-        {
           "category": "Memory",
           "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "In Group v Out Group"
         }
       ],
       "uuid": "9dc03af7-6180-4abe-9586-12716529961b"
