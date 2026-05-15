@@ -756,12 +756,12 @@
           "tag": "Personal"
         },
         {
-          "category": "Evolution",
-          "tag": "Past v. Present"
-        },
-        {
           "category": "Community",
           "tag": "Privilege"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
         }
       ],
       "uuid": "7121939f-0843-4e83-a520-a7cfc43613e5"
