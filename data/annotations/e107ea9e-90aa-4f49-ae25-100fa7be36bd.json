@@ -3905,16 +3905,16 @@
       ],
       "tags": [
         {
-          "category": "Environment",
-          "tag": "Env't Health"
-        },
-        {
           "category": "Land(scape)",
           "tag": "City Geography"
         },
         {
-          "category": "Uncategorized",
-          "tag": "Env't Indicator"
+          "category": "Science",
+          "tag": "Environmental Indicator"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
         }
       ],
       "uuid": "21889665-3757-41ea-96b1-88d25d1942c5"
