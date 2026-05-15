@@ -606,12 +606,12 @@
           "tag": "Personal"
         },
         {
-          "category": "Evolution",
-          "tag": "Past v. Present"
-        },
-        {
           "category": "Land(scape)",
           "tag": "Infrastructure"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
         }
       ],
       "uuid": "0d58f641-5ef0-4480-bd74-bc59064d41ae"
