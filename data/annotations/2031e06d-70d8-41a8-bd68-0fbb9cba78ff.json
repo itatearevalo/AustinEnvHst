@@ -4896,12 +4896,12 @@
           "tag": "Personal"
         },
         {
-          "category": "Uncategorized",
-          "tag": "Env't Indicator"
-        },
-        {
           "category": "Evolution",
           "tag": "Change"
+        },
+        {
+          "category": "Science",
+          "tag": "Environmental Indicator"
         }
       ],
       "uuid": "d31f4fb4-f6f8-4926-9940-07b546ea8464"
