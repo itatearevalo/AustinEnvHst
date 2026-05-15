@@ -61,12 +61,12 @@
       ],
       "tags": [
         {
-          "category": "Evolution",
-          "tag": "Past v. Present"
-        },
-        {
           "category": "Memory",
           "tag": "Personal"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
         }
       ],
       "uuid": "0610f273-4141-43d2-a7cf-693c7fd4e6a9"
