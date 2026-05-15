@@ -3934,12 +3934,12 @@
       ],
       "tags": [
         {
-          "category": "Environment",
-          "tag": "Env't Health"
-        },
-        {
           "category": "Land(scape)",
           "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
         }
       ],
       "uuid": "293d5c90-b92a-48c1-b424-70b26a3fb2f2"
