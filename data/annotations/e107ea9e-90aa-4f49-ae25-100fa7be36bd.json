@@ -1948,12 +1948,12 @@
       ],
       "tags": [
         {
-          "category": "Uncategorized",
-          "tag": "Env't Indicator"
-        },
-        {
           "category": "Memory",
           "tag": "Personal"
+        },
+        {
+          "category": "Science",
+          "tag": "Environmental Indicator"
         }
       ],
       "uuid": "c91756c3-ed4e-46db-b488-be633c364800"
