@@ -2564,12 +2564,12 @@
           "tag": "Natural Beauty"
         },
         {
-          "category": "Uncategorized",
-          "tag": "Env't Indicator"
-        },
-        {
           "category": "Community",
           "tag": "Spirit"
+        },
+        {
+          "category": "Science",
+          "tag": "Environmental Indicator"
         }
       ],
       "uuid": "f181a5b1-3aab-4c8c-b87e-8f49f9e68378"
