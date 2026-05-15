@@ -6478,12 +6478,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Env't Indicator"
-        },
-        {
           "category": "Memory",
           "tag": "Personal"
+        },
+        {
+          "category": "Science",
+          "tag": "Environmental Indicator"
         }
       ],
       "uuid": "f31b72a5-726a-4021-a49c-6b76babd494c"
