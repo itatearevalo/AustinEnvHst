@@ -2049,20 +2049,20 @@
       ],
       "tags": [
         {
-          "category": "Evolution",
-          "tag": "Past v. Present"
-        },
-        {
           "category": "Land(scape)",
           "tag": "Infrastructure"
         },
         {
-          "category": "Environment",
-          "tag": "Env't Health"
-        },
-        {
           "category": "Memory",
           "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
         }
       ],
       "uuid": "171781ab-11d4-4e0f-b151-d8000133af2f"
