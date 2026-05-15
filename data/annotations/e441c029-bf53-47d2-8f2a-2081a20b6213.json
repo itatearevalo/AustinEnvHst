@@ -4358,12 +4358,12 @@
           "tag": "City Geography"
         },
         {
-          "category": "Evolution",
-          "tag": "Past v. Present"
-        },
-        {
           "category": "Memory",
           "tag": "Personal"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
         }
       ],
       "uuid": "1d2b5980-a1fa-41c8-99e6-a9a6bc095bbe"
