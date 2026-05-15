@@ -3252,12 +3252,12 @@
       ],
       "tags": [
         {
-          "category": "Community",
-          "tag": "In Group v. Out Group"
-        },
-        {
           "category": "Land(scape)",
           "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "In Group v Out Group"
         }
       ],
       "uuid": "89c3e3d5-7dad-4066-b9d0-f16c568832da"
