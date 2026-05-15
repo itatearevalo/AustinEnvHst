@@ -450,12 +450,12 @@
           "tag": "Infrastructure"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Env't Health"
-        },
-        {
           "category": "Memory",
           "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
         }
       ],
       "uuid": "534e8bf6-dd36-42a6-9e36-ae55cc64cf7b"
