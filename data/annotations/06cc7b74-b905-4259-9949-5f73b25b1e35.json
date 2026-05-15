@@ -638,12 +638,12 @@
           "tag": "Personal"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Infrastucture"
+          "category": "Environment",
+          "tag": "Environmental Health"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Env't Health"
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
         }
       ],
       "uuid": "e5d34c75-c665-4494-aa75-58ca2467b269"
