@@ -3958,12 +3958,12 @@
       ],
       "tags": [
         {
-          "category": "Evolution",
-          "tag": "Past v. Present"
-        },
-        {
           "category": "Memory",
           "tag": "Personal"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
         }
       ],
       "uuid": "40d86199-62d7-48db-8126-a8ba552a77ab"
