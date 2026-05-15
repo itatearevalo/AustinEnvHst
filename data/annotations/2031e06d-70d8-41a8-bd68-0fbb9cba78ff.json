@@ -3652,12 +3652,12 @@
       ],
       "tags": [
         {
-          "category": "Environment",
-          "tag": "Env't Health"
-        },
-        {
           "category": "Memory",
           "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
         }
       ],
       "uuid": "799e2c3b-8070-4575-aac8-ab0adb1691e5"
