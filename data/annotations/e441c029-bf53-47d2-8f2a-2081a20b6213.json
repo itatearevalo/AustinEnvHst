@@ -2194,16 +2194,16 @@
           "tag": "Change"
         },
         {
-          "category": "Uncategorized",
-          "tag": "Infrasturcture"
-        },
-        {
           "category": "Community",
           "tag": "Spirit"
         },
         {
           "category": "Community",
           "tag": "Privilege"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
         }
       ],
       "uuid": "8a9970e9-9cf0-4e13-be96-66e63bf4d87c"
