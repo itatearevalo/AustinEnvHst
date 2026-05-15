@@ -2257,12 +2257,12 @@
           "tag": "Personal"
         },
         {
-          "category": "Environment",
-          "tag": "Env't Health"
-        },
-        {
           "category": "Land(scape)",
           "tag": "Infrastructure"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
         }
       ],
       "uuid": "bdb83d0e-9bb6-437a-b5b4-158d6b222adf"
