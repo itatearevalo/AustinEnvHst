@@ -12,9 +12,19 @@
   "label": "Environmental Resistance in Progress",
   "created_at": "2026-04-28T19:30:10.971Z",
   "created_by": "itatearevalo",
-  "updated_at": "2026-05-16T18:55:51.312Z",
+  "updated_at": "2026-05-16T19:01:28.518Z",
   "updated_by": "itatearevalo",
   "av_file_order": [
     "89329161-bac5-4261-b0d4-f798bc24e796"
+  ],
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "An interview with Silvia Herrera conducted in 2004."
+        }
+      ]
+    }
   ]
 }
