@@ -12,7 +12,7 @@
   "label": "Reconstructing Austin",
   "created_at": "2026-04-28T19:30:10.971Z",
   "created_by": "itatearevalo",
-  "updated_at": "2026-05-16T18:55:29.129Z",
+  "updated_at": "2026-05-16T19:04:21.162Z",
   "updated_by": "itatearevalo",
   "av_file_order": [
     "22cf4953-c428-4eec-be08-ed62f0d7999e"
@@ -22,9 +22,27 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Content Warning",
+          "text": "An interview with Robert F. Bacon and Ella Lambert Bacon conducted in 1964. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "italic": true,
-          "bold": true
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "bold": true,
+          "text": "Content Warning"
         },
         {
           "italic": true,
