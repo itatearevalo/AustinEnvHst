@@ -269,11 +269,11 @@
   "title": "Homepage",
   "autogenerate": {
     "enabled": false,
-    "type": "home"
+    "type": "custom"
   },
   "slug": "homepage",
   "created_at": "2026-04-28T19:53:21.114Z",
   "created_by": "itatearevalo",
-  "updated_at": "2026-05-18T21:48:03.979Z",
+  "updated_at": "2026-05-18T22:00:52.945Z",
   "updated_by": "itatearevalo"
 }
